@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/nFactorial-project-17February/static/css/main.18de46dc.css",
+    "main.js": "/nFactorial-project-17February/static/js/main.9370ce2c.js",
+    "index.html": "/nFactorial-project-17February/index.html",
+    "main.18de46dc.css.map": "/nFactorial-project-17February/static/css/main.18de46dc.css.map",
+    "main.9370ce2c.js.map": "/nFactorial-project-17February/static/js/main.9370ce2c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.18de46dc.css",
+    "static/js/main.9370ce2c.js"
+  ]
+}
